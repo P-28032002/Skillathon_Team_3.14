@@ -29,7 +29,7 @@ const firebaseConfig = {
 
 const { Configuration, OpenAIApi } = require('openai');
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
 
